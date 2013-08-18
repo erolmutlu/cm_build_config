@@ -1,0 +1,10 @@
+<manifest>
+<project name="rodero95/android_vendor_samsung_galaxysl.git" path="vendor/samsung/galaxysl" remote="github" revision="cm-10.2"/>
+<project name="rodero95/android_device_samsung_galaxysl.git" path="device/samsung/galaxysl" remote="github" revision="cm-10.2"/>
+<project name="rodero95/android_kernel_samsung_latona.git" path="kernel/samsung/latona" remote="github" revision="cm-10.2"/>
+<remove-project name="CyanogenMod/android_packages_apps_CMUpdater"/>
+<project name="rodero95/android_packages_apps_CMUpdater.git" path="packages/apps/CMUpdater" remote="github" revision="cm-10.2"/>
+<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-10.2"/>
+<project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-10.2"/>
+<project name="rodero95/android_packages_apps_droidwall" path="packages/apps/droidwall" remote="github" revision="cm-10.2"/>
+</manifest>
