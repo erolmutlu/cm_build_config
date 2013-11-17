@@ -1,0 +1,5 @@
+<manifest>
+<project name="rodero95/android_vendor_samsung_galaxysl.git" path="vendor/samsung/galaxysl" remote="github" revision="phablet-trusty"/>
+<project name="rodero95/android_device_samsung_galaxysl.git" path="device/samsung/galaxysl" remote="github" revision="phablet-trusty"/>
+<project name="rodero95/android_kernel_samsung_latona.git" path="kernel/samsung/latona" remote="github" revision="phablet-trusty"/>
+</manifest>
