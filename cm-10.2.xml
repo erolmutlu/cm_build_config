@@ -5,6 +5,6 @@
 <remove-project name="CyanogenMod/android_packages_apps_CMUpdater"/>
 <project name="rodero95/android_packages_apps_CMUpdater.git" path="packages/apps/CMUpdater" remote="github" revision="cm-10.2"/>
 <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-10.2"/>
-<project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-10.2"/>
 <project name="rodero95/android_packages_apps_droidwall" path="packages/apps/droidwall" remote="github" revision="cm-10.2"/>
+<project name="rodero95/android_packages_apps_PerformanceControl" path="packages/apps/PerformanceControl" remote="github" revision="cm-10.2"/>
 </manifest>
